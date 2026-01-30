@@ -146,6 +146,11 @@ select {
     padding: 1.5rem;
 }
 
+.product-category {
+  letter-spacing: .1rem;
+  font-weight: 100;
+}
+
 .card-content > * {
   margin-bottom: .8rem;
 }
@@ -210,4 +215,5 @@ select {
 
 
 }
+
 
