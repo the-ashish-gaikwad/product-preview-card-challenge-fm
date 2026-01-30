@@ -187,7 +187,7 @@ select {
     justify-content: center;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .card {
     display: flex;
     max-width: 50rem;
@@ -206,5 +206,6 @@ select {
     justify-content: center;
     flex-direction: column;
   }
+
 
 }
